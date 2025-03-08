@@ -4,7 +4,7 @@ Submitted by: **Andry Rakotonjanabelo**
 
 **Wordle iOS clone** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough
-[Demo](Andry-Wordle2-demo.gif) .
+[Demo](Andry-Wordle2-demo.gif)
 
 ## Notes
 
