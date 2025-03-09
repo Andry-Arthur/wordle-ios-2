@@ -2,7 +2,7 @@
 
 Submitted by: **Andry Rakotonjanabelo**
 
-**Wordle iOS clone** is an app that ... [TODO] 
+**Wordle iOS clone** is an app that allows user to guess a given word with a set number of tries.
 
 Time spent: **2** hours spent in total
 
