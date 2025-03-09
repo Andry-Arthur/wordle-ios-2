@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough
-[Demo](Andry-Wordle2-demo.gif)
+![Demo](Andry-Wordle2-demo.gif)
 
 ## Notes
 
